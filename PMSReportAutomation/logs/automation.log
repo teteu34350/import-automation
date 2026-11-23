@@ -1,0 +1,293 @@
+2026-11-23 07:31:16,567 ERROR [Lexy] [WinError 5] Acesso negado: 'C:\\Users\\teteu\\AppData\\Local\\PMSReportAutomation\\browser-profiles'
+2026-11-23 07:31:16,567 ERROR [Centro] [WinError 5] Acesso negado: 'C:\\Users\\teteu\\AppData\\Local\\PMSReportAutomation\\browser-profiles'
+2026-11-23 07:31:16,568 ERROR [poty] [WinError 5] Acesso negado: 'C:\\Users\\teteu\\AppData\\Local\\PMSReportAutomation\\browser-profiles'
+2026-11-23 07:31:28,575 ERROR [Lexy] [WinError 5] Acesso negado: 'C:\\Users\\teteu\\AppData\\Local\\PMSReportAutomation\\browser-profiles'
+2026-11-23 07:31:28,576 ERROR [Centro] [WinError 5] Acesso negado: 'C:\\Users\\teteu\\AppData\\Local\\PMSReportAutomation\\browser-profiles'
+2026-11-23 07:31:28,577 ERROR [poty] [WinError 5] Acesso negado: 'C:\\Users\\teteu\\AppData\\Local\\PMSReportAutomation\\browser-profiles'
+2026-11-23 07:32:09,924 ERROR [Centro] [WinError 5] Acesso negado: 'C:\\Users\\teteu\\AppData\\Local\\PMSReportAutomation\\browser-profiles'
+2026-11-23 07:36:18,237 INFO [Lexy] Sem permissão para gravar o perfil do Chrome no local padrão; usando 'C:\Users\teteu\OneDrive\Área de Trabalho\PROJETOS\import-automation\PMSReportAutomation\browser-profiles\9b033ef8e6934925dba383203c122b6573b36fda40459cf33494b7dff4679a8b'.
+2026-11-23 07:36:18,557 INFO [Centro] Sem permissão para gravar o perfil do Chrome no local padrão; usando 'C:\Users\teteu\OneDrive\Área de Trabalho\PROJETOS\import-automation\PMSReportAutomation\browser-profiles\4fed30124566a2bef6e5b3118c3ff31690b5d82621c09c6d042fd556d64fb4a4'.
+2026-11-23 07:36:19,027 INFO [poty] Sem permissão para gravar o perfil do Chrome no local padrão; usando 'C:\Users\teteu\OneDrive\Área de Trabalho\PROJETOS\import-automation\PMSReportAutomation\browser-profiles\bd86fc4c127640d7954a711f5649e48c7fad1c0e262db65b0706a29209ab18cd'.
+2026-11-23 07:36:19,031 ERROR [Lexy] BrowserType.launch_persistent_context: EPERM: operation not permitted, mkdtemp 'C:\Users\teteu\AppData\Local\Temp\playwright-artifacts-XXXXXX'
+2026-11-23 07:36:19,032 ERROR [Centro] BrowserType.launch_persistent_context: EPERM: operation not permitted, mkdtemp 'C:\Users\teteu\AppData\Local\Temp\playwright-artifacts-XXXXXX'
+2026-11-23 07:36:19,032 ERROR [poty] BrowserType.launch_persistent_context: EPERM: operation not permitted, mkdtemp 'C:\Users\teteu\AppData\Local\Temp\playwright-artifacts-XXXXXX'
+2026-11-23 07:38:19,875 INFO [Lexy] Sem permissão para gravar o perfil do Chrome no local padrão; usando 'C:\Users\teteu\OneDrive\Área de Trabalho\PROJETOS\import-automation\PMSReportAutomation\browser-profiles\9b033ef8e6934925dba383203c122b6573b36fda40459cf33494b7dff4679a8b'.
+2026-11-23 07:38:20,193 INFO [Centro] Sem permissão para gravar o perfil do Chrome no local padrão; usando 'C:\Users\teteu\OneDrive\Área de Trabalho\PROJETOS\import-automation\PMSReportAutomation\browser-profiles\4fed30124566a2bef6e5b3118c3ff31690b5d82621c09c6d042fd556d64fb4a4'.
+2026-11-23 07:38:20,663 INFO [poty] Sem permissão para gravar o perfil do Chrome no local padrão; usando 'C:\Users\teteu\OneDrive\Área de Trabalho\PROJETOS\import-automation\PMSReportAutomation\browser-profiles\bd86fc4c127640d7954a711f5649e48c7fad1c0e262db65b0706a29209ab18cd'.
+2026-11-23 07:38:20,668 ERROR [Lexy] BrowserType.launch_persistent_context: EPERM: operation not permitted, mkdtemp 'C:\Users\teteu\AppData\Local\Temp\playwright-artifacts-XXXXXX'
+2026-11-23 07:38:20,669 ERROR [Centro] BrowserType.launch_persistent_context: EPERM: operation not permitted, mkdtemp 'C:\Users\teteu\AppData\Local\Temp\playwright-artifacts-XXXXXX'
+2026-11-23 07:38:20,669 ERROR [poty] BrowserType.launch_persistent_context: EPERM: operation not permitted, mkdtemp 'C:\Users\teteu\AppData\Local\Temp\playwright-artifacts-XXXXXX'
+2026-11-23 08:20:52,920 INFO [Lexy] Sem permissão para gravar o perfil do Chrome no local padrão; usando 'C:\Users\teteu\OneDrive\Área de Trabalho\PROJETOS\import-automation\PMSReportAutomation\browser-profiles\9b033ef8e6934925dba383203c122b6573b36fda40459cf33494b7dff4679a8b'.
+2026-11-23 08:20:54,191 INFO [Lexy] Acessando o hotel Lexy...
+2026-11-23 08:21:01,715 INFO [Lexy] Coletando e convertendo o relatório Reservas na unidade Lexy...
+2026-11-23 08:22:10,436 INFO [Lexy] Reservas · Lexy: falhou — Falha ao converter, corrigir ou validar o relatório C.
+2026-11-23 08:22:10,437 INFO [Lexy] Coletando e convertendo o relatório Movimentação com diária na unidade Lexy...
+2026-11-23 08:23:14,118 INFO [Lexy] Movimentação com diária · Lexy: falhou — Falha ao converter, corrigir ou validar o relatório R.
+2026-11-23 08:23:14,119 INFO [Lexy] Fazendo logout pelo menu do sistema...
+2026-11-23 08:23:14,431 INFO [Lexy] Logout confirmado na tela de acesso.
+2026-11-23 08:23:14,899 INFO [Centro] Sem permissão para gravar o perfil do Chrome no local padrão; usando 'C:\Users\teteu\OneDrive\Área de Trabalho\PROJETOS\import-automation\PMSReportAutomation\browser-profiles\4fed30124566a2bef6e5b3118c3ff31690b5d82621c09c6d042fd556d64fb4a4'.
+2026-11-23 08:23:16,085 INFO [Centro] Acessando o hotel Centro...
+2026-11-23 08:23:23,351 INFO [Centro] Coletando e convertendo o relatório Reservas na unidade Centro...
+2026-11-23 08:24:44,139 INFO [Centro] Reservas · Centro: falhou — Falha ao converter, corrigir ou validar o relatório C.
+2026-11-23 08:24:44,140 INFO [Centro] Coletando e convertendo o relatório Movimentação com diária na unidade Centro...
+2026-11-23 08:25:48,499 INFO [Centro] Movimentação com diária · Centro: falhou — Falha ao converter, corrigir ou validar o relatório R.
+2026-11-23 08:25:48,500 INFO [Centro] Trocando unidade de HOTEL PORTINARI CENTRO para HOTEL PORTINARI PONTE DA AMIZADE (1860)...
+2026-11-23 08:25:51,917 INFO [Centro] Coletando e convertendo o relatório Reservas na unidade HOTEL PORTINARI PONTE DA AMIZADE (1860)...
+2026-11-23 08:27:00,205 INFO [Centro] Reservas · HOTEL PORTINARI PONTE DA AMIZADE (1860): falhou — Falha ao converter, corrigir ou validar o relatório C.
+2026-11-23 08:27:00,207 INFO [Centro] Coletando e convertendo o relatório Movimentação com diária na unidade HOTEL PORTINARI PONTE DA AMIZADE (1860)...
+2026-11-23 08:28:08,170 INFO [Centro] Movimentação com diária · HOTEL PORTINARI PONTE DA AMIZADE (1860): falhou — Falha ao converter, corrigir ou validar o relatório R.
+2026-11-23 08:28:08,174 INFO [Centro] Fazendo logout pelo menu do sistema...
+2026-11-23 08:28:10,896 INFO [Centro] Logout confirmado na tela de acesso.
+2026-11-23 08:28:12,190 INFO [poty] Sem permissão para gravar o perfil do Chrome no local padrão; usando 'C:\Users\teteu\OneDrive\Área de Trabalho\PROJETOS\import-automation\PMSReportAutomation\browser-profiles\bd86fc4c127640d7954a711f5649e48c7fad1c0e262db65b0706a29209ab18cd'.
+2026-11-23 08:28:13,828 INFO [poty] Acessando o hotel poty...
+2026-11-23 08:28:22,367 INFO [poty] Coletando e convertendo o relatório Reservas na unidade poty...
+2026-11-23 08:28:59,250 INFO [poty] Reservas · poty: falhou — Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for get_by_label(re.compile(r"Data Início", re.IGNORECASE))
+    - locator resolved to <input value="" onblur="" type="text" onchange="" data-mask="data" name="dataInicio" autocomplete="off" data-type="datepicker" data-start-view="dias" data-min-view-mode="dias" data-orientation="left top" data-date-format="dd/mm/yyyy" class="date-picker col-xs-12 " id="filtroListagemReserva-dataInicio"/>
+  - attempting click action
+    - waiting for element to be visible, enabled and stable
+    - element is visible, enabled and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <button type="button" data-bb-handler="success" class="btn btn-primario grande confirma">…</button> from <div tabindex="-1" role="dialog" aria-hidden="false" data-modal-aberto="true" class="bootbox modal fade in">…</div> subtree intercepts pointer events
+  - retrying click action
+    - waiting for element to be visible, enabled and stable
+    - element is visible, enabled and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <div class="modal-body">…</div> from <div tabindex="-1" role="dialog" aria-hidden="false" data-modal-aberto="true" class="bootbox modal fade in">…</div> subtree intercepts pointer events
+  - retrying click action
+    - waiting 20ms
+    - waiting for element to be visible, enabled and stable
+    - element is visible, enabled and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <div class="modal-body">…</div> from <div tabindex="-1" role="dialog" aria-hidden="false" data-modal-aberto="true" class="bootbox modal fade in">…</div> subtree intercepts pointer events
+  2 × retrying click action
+      - waiting 100ms
+      - waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="modal-backdrop fade in"></div> from <div tabindex="-1" role="dialog" aria-hidden="false" data-modal-aberto="true" class="bootbox modal fade in">…</div> subtree intercepts pointer events
+  2 × retrying click action
+      - waiting 500ms
+      - waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="modal-body">…</div> from <div tabindex="-1" role="dialog" aria-hidden="false" data-modal-aberto="true" class="bootbox modal fade in">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 500ms
+      - waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="modal-body">…</div> from <div tabindex="-1" role="dialog" aria-hidden="false" data-modal-aberto="true" class="bootbox modal fade in">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 500ms
+      - waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="modal-backdrop fade in"></div> from <div tabindex="-1" role="dialog" aria-hidden="false" data-modal-aberto="true" class="bootbox modal fade in">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 500ms
+      - waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="modal-backdrop fade in"></div> from <div tabindex="-1" role="dialog" aria-hidden="false" data-modal-aberto="true" class="bootbox modal fade in">…</div> subtree intercepts pointer events
+  2 × retrying click action
+      - waiting 500ms
+      - waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="modal-body">…</div> from <div tabindex="-1" role="dialog" aria-hidden="false" data-modal-aberto="true" class="bootbox modal fade in">…</div> subtree intercepts pointer events
+  - retrying click action
+    - waiting 500ms
+
+2026-11-23 08:28:59,251 INFO [poty] Coletando e convertendo o relatório Movimentação com diária na unidade poty...
+2026-11-23 08:29:29,312 INFO [poty] Movimentação com diária · poty: falhou — Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for get_by_label(re.compile(r"Data inicial", re.IGNORECASE))
+    - locator resolved to <input onblur="" type="text" onchange="" data-mask="data" name="dataInicial" value="23/11/2026" autocomplete="off" data-type="datepicker" data-start-view="dias" data-min-view-mode="dias" id="filtroDto-dataInicial" data-orientation="left top" data-date-format="dd/mm/yyyy" class="date-picker col-xs-12 "/>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="bootbox-body">…</div> from <div tabindex="-1" role="dialog" aria-hidden="false" data-modal-aberto="true" class="bootbox modal fade in">…</div> subtree intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="bootbox-body">…</div> from <div tabindex="-1" role="dialog" aria-hidden="false" data-modal-aberto="true" class="bootbox modal fade in">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 100ms
+    11 × waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <div class="bootbox-body">…</div> from <div tabindex="-1" role="dialog" aria-hidden="false" data-modal-aberto="true" class="bootbox modal fade in">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+
+2026-11-23 08:29:29,314 INFO [poty] Fazendo logout pelo menu do sistema...
+2026-11-23 08:29:59,665 ERROR [Lexy (Lexy)] Falha em Reservas: Falha ao converter, corrigir ou validar o relatório C.
+2026-11-23 08:29:59,669 ERROR [Lexy (Lexy)] Falha em Movimentação com diária: Falha ao converter, corrigir ou validar o relatório R.
+2026-11-23 08:29:59,670 ERROR [Centro (Centro)] Falha em Reservas: Falha ao converter, corrigir ou validar o relatório C.
+2026-11-23 08:29:59,671 ERROR [Centro (Centro)] Falha em Movimentação com diária: Falha ao converter, corrigir ou validar o relatório R.
+2026-11-23 08:29:59,671 ERROR [Centro (HOTEL PORTINARI PONTE DA AMIZADE (1860))] Falha em Reservas: Falha ao converter, corrigir ou validar o relatório C.
+2026-11-23 08:29:59,672 ERROR [Centro (HOTEL PORTINARI PONTE DA AMIZADE (1860))] Falha em Movimentação com diária: Falha ao converter, corrigir ou validar o relatório R.
+2026-11-23 08:29:59,673 ERROR [poty] Falha ao confirmar o logout: Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for get_by_role("link", name=re.compile(r"^[A-Z]$", re.IGNORECASE))
+    - locator resolved to <a tabindex="0" href="javascript:" aria-expanded="false" data-toggle="dropdown" class="dropdown-toggle" data-original-tabindex="0">M</a>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="modal-backdrop fade in"></div> from <div tabindex="-1" role="dialog" aria-hidden="false" data-modal-aberto="true" class="bootbox modal fade in">…</div> subtree intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="modal-backdrop fade in"></div> from <div tabindex="-1" role="dialog" aria-hidden="false" data-modal-aberto="true" class="bootbox modal fade in">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 100ms
+    11 × waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <div class="modal-backdrop fade in"></div> from <div tabindex="-1" role="dialog" aria-hidden="false" data-modal-aberto="true" class="bootbox modal fade in">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+
+2026-11-23 08:29:59,673 ERROR [poty (poty)] Falha em Reservas: Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for get_by_label(re.compile(r"Data Início", re.IGNORECASE))
+    - locator resolved to <input value="" onblur="" type="text" onchange="" data-mask="data" name="dataInicio" autocomplete="off" data-type="datepicker" data-start-view="dias" data-min-view-mode="dias" data-orientation="left top" data-date-format="dd/mm/yyyy" class="date-picker col-xs-12 " id="filtroListagemReserva-dataInicio"/>
+  - attempting click action
+    - waiting for element to be visible, enabled and stable
+    - element is visible, enabled and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <button type="button" data-bb-handler="success" class="btn btn-primario grande confirma">…</button> from <div tabindex="-1" role="dialog" aria-hidden="false" data-modal-aberto="true" class="bootbox modal fade in">…</div> subtree intercepts pointer events
+  - retrying click action
+    - waiting for element to be visible, enabled and stable
+    - element is visible, enabled and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <div class="modal-body">…</div> from <div tabindex="-1" role="dialog" aria-hidden="false" data-modal-aberto="true" class="bootbox modal fade in">…</div> subtree intercepts pointer events
+  - retrying click action
+    - waiting 20ms
+    - waiting for element to be visible, enabled and stable
+    - element is visible, enabled and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <div class="modal-body">…</div> from <div tabindex="-1" role="dialog" aria-hidden="false" data-modal-aberto="true" class="bootbox modal fade in">…</div> subtree intercepts pointer events
+  2 × retrying click action
+      - waiting 100ms
+      - waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="modal-backdrop fade in"></div> from <div tabindex="-1" role="dialog" aria-hidden="false" data-modal-aberto="true" class="bootbox modal fade in">…</div> subtree intercepts pointer events
+  2 × retrying click action
+      - waiting 500ms
+      - waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="modal-body">…</div> from <div tabindex="-1" role="dialog" aria-hidden="false" data-modal-aberto="true" class="bootbox modal fade in">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 500ms
+      - waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="modal-body">…</div> from <div tabindex="-1" role="dialog" aria-hidden="false" data-modal-aberto="true" class="bootbox modal fade in">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 500ms
+      - waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="modal-backdrop fade in"></div> from <div tabindex="-1" role="dialog" aria-hidden="false" data-modal-aberto="true" class="bootbox modal fade in">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 500ms
+      - waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="modal-backdrop fade in"></div> from <div tabindex="-1" role="dialog" aria-hidden="false" data-modal-aberto="true" class="bootbox modal fade in">…</div> subtree intercepts pointer events
+  2 × retrying click action
+      - waiting 500ms
+      - waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="modal-body">…</div> from <div tabindex="-1" role="dialog" aria-hidden="false" data-modal-aberto="true" class="bootbox modal fade in">…</div> subtree intercepts pointer events
+  - retrying click action
+    - waiting 500ms
+
+2026-11-23 08:29:59,674 ERROR [poty (poty)] Falha em Movimentação com diária: Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for get_by_label(re.compile(r"Data inicial", re.IGNORECASE))
+    - locator resolved to <input onblur="" type="text" onchange="" data-mask="data" name="dataInicial" value="23/11/2026" autocomplete="off" data-type="datepicker" data-start-view="dias" data-min-view-mode="dias" id="filtroDto-dataInicial" data-orientation="left top" data-date-format="dd/mm/yyyy" class="date-picker col-xs-12 "/>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="bootbox-body">…</div> from <div tabindex="-1" role="dialog" aria-hidden="false" data-modal-aberto="true" class="bootbox modal fade in">…</div> subtree intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="bootbox-body">…</div> from <div tabindex="-1" role="dialog" aria-hidden="false" data-modal-aberto="true" class="bootbox modal fade in">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 100ms
+    11 × waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <div class="bootbox-body">…</div> from <div tabindex="-1" role="dialog" aria-hidden="false" data-modal-aberto="true" class="bootbox modal fade in">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+
+2026-11-23 08:40:25,427 INFO [poty] Sem permissão para gravar o perfil do Chrome no local padrão; usando 'C:\Users\teteu\OneDrive\Área de Trabalho\PROJETOS\import-automation\PMSReportAutomation\browser-profiles\bd86fc4c127640d7954a711f5649e48c7fad1c0e262db65b0706a29209ab18cd'.
+2026-11-23 08:40:26,738 INFO [poty] Acessando o hotel poty...
+2026-11-23 08:40:34,840 ERROR [poty] Locator.wait_for: Target page, context or browser has been closed
+Call log:
+  - waiting for locator("input[type=\"email\"], input[name=\"email\"]") to be hidden
+    17 × locator resolved to visible <input value="" id=":r1:" type="email" autocomplete="off" aria-invalid="false" class="MuiInputBase-input MuiInput-input MuiInputBase-inputSizeSmall MuiInputBase-inputAdornedStart css-2duac4"/>
+
+2026-11-23 08:41:45,853 INFO [Lexy] Sem permissão para gravar o perfil do Chrome no local padrão; usando 'C:\Users\teteu\OneDrive\Área de Trabalho\PROJETOS\import-automation\PMSReportAutomation\browser-profiles\9b033ef8e6934925dba383203c122b6573b36fda40459cf33494b7dff4679a8b'.
+2026-11-23 08:41:46,636 INFO [Lexy] Acessando o hotel Lexy...
+2026-11-23 08:41:49,904 INFO [Lexy] Coletando e convertendo o relatório Reservas na unidade Lexy...
+2026-11-23 08:42:55,211 INFO [Lexy] Reservas · Lexy: falhou — Falha ao converter, corrigir ou validar o relatório C. Detalhe: com_error: (-2147352567, 'Exceção.', (0, 'Microsoft Excel', 'O Microsoft Excel não pode abrir nem salvar documentos porque não há memória \r\nou espaço em disco suficiente disponível.\r\n\r\n• Para disponibilizar mais memória, feche as pastas de trabalho ou os \r\n  programas que não são mais necessários.\r\n\r\n• Para liberar espaço em disco, remova os arquivos desnecessários do disco \r\n  em que você está salvando.', 'xlmain11.chm', 0, -2146827284), None)
+2026-11-23 08:42:55,224 INFO [Lexy] Coletando e convertendo o relatório Movimentação com diária na unidade Lexy...
+2026-11-23 08:44:02,003 INFO [Lexy] Movimentação com diária · Lexy: falhou — Falha ao converter, corrigir ou validar o relatório R. Detalhe: com_error: (-2147352567, 'Exceção.', (0, 'Microsoft Excel', 'O Microsoft Excel não pode abrir nem salvar documentos porque não há memória \r\nou espaço em disco suficiente disponível.\r\n\r\n• Para disponibilizar mais memória, feche as pastas de trabalho ou os \r\n  programas que não são mais necessários.\r\n\r\n• Para liberar espaço em disco, remova os arquivos desnecessários do disco \r\n  em que você está salvando.', 'xlmain11.chm', 0, -2146827284), None)
+2026-11-23 08:44:02,043 INFO [Lexy] Fazendo logout pelo menu do sistema...
+2026-11-23 08:44:02,572 INFO [Lexy] Logout confirmado na tela de acesso.
+2026-11-23 08:44:03,069 INFO [Centro] Sem permissão para gravar o perfil do Chrome no local padrão; usando 'C:\Users\teteu\OneDrive\Área de Trabalho\PROJETOS\import-automation\PMSReportAutomation\browser-profiles\4fed30124566a2bef6e5b3118c3ff31690b5d82621c09c6d042fd556d64fb4a4'.
+2026-11-23 08:44:04,213 INFO [Centro] Acessando o hotel Centro...
+2026-11-23 08:44:11,336 INFO [Centro] Coletando e convertendo o relatório Reservas na unidade Centro...
+2026-11-23 08:45:25,657 INFO [Centro] Reservas · Centro: falhou — Falha ao converter, corrigir ou validar o relatório C. Detalhe: com_error: (-2147352567, 'Exceção.', (0, 'Microsoft Excel', 'O Microsoft Excel não pode abrir nem salvar documentos porque não há memória \r\nou espaço em disco suficiente disponível.\r\n\r\n• Para disponibilizar mais memória, feche as pastas de trabalho ou os \r\n  programas que não são mais necessários.\r\n\r\n• Para liberar espaço em disco, remova os arquivos desnecessários do disco \r\n  em que você está salvando.', 'xlmain11.chm', 0, -2146827284), None)
+2026-11-23 08:45:25,670 INFO [Centro] Coletando e convertendo o relatório Movimentação com diária na unidade Centro...
+2026-11-23 08:46:32,459 INFO [Centro] Movimentação com diária · Centro: falhou — Falha ao converter, corrigir ou validar o relatório R. Detalhe: com_error: (-2147352567, 'Exceção.', (0, 'Microsoft Excel', 'O Microsoft Excel não pode abrir nem salvar documentos porque não há memória \r\nou espaço em disco suficiente disponível.\r\n\r\n• Para disponibilizar mais memória, feche as pastas de trabalho ou os \r\n  programas que não são mais necessários.\r\n\r\n• Para liberar espaço em disco, remova os arquivos desnecessários do disco \r\n  em que você está salvando.', 'xlmain11.chm', 0, -2146827284), None)
+2026-11-23 08:46:32,473 INFO [Centro] Trocando unidade de HOTEL PORTINARI CENTRO para HOTEL PORTINARI PONTE DA AMIZADE (1860)...
+2026-11-23 08:46:40,551 INFO [Centro] Coletando e convertendo o relatório Reservas na unidade HOTEL PORTINARI PONTE DA AMIZADE (1860)...
+2026-11-23 08:47:54,431 INFO [Centro] Reservas · HOTEL PORTINARI PONTE DA AMIZADE (1860): falhou — Falha ao converter, corrigir ou validar o relatório C. Detalhe: com_error: (-2147352567, 'Exceção.', (0, 'Microsoft Excel', 'O Microsoft Excel não pode abrir nem salvar documentos porque não há memória \r\nou espaço em disco suficiente disponível.\r\n\r\n• Para disponibilizar mais memória, feche as pastas de trabalho ou os \r\n  programas que não são mais necessários.\r\n\r\n• Para liberar espaço em disco, remova os arquivos desnecessários do disco \r\n  em que você está salvando.', 'xlmain11.chm', 0, -2146827284), None)
+2026-11-23 08:47:54,443 INFO [Centro] Coletando e convertendo o relatório Movimentação com diária na unidade HOTEL PORTINARI PONTE DA AMIZADE (1860)...

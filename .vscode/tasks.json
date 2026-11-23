@@ -1,0 +1,25 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Executar automação de importação",
+			"type": "shell",
+			"command": ".\\.venv\\Scripts\\python.exe",
+			"args": [
+				"app.py"
+			],
+			"isBackground": true,
+			"problemMatcher": []
+		},
+		{
+			"label": "Importar somente Pontal do Mundai",
+			"type": "shell",
+			"command": ".\\.venv\\Scripts\\python.exe",
+			"args": [
+				"importar_pontal.py"
+			],
+			"isBackground": true,
+			"problemMatcher": []
+		}
+	]
+}

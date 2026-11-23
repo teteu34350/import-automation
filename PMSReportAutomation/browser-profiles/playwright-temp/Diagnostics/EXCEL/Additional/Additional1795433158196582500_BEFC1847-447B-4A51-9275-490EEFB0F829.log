@@ -1,0 +1,5 @@
+Timestamp	Process	TID	Area	Category	EventID	Level	Message	Correlation
+11/23/2026 11:27:02.836	EXCEL (0x3784)	0x8908	Microsoft Excel	Syzygy	912b2	Medium	Destroying namespace. {"Path":"O:{2}"}	
+11/23/2026 11:27:03.895	EXCEL (0x3784)	0x8908	Microsoft Excel	Syzygy	912b2	Medium	Destroying namespace. {"Path":"O:{4}"}	
+11/23/2026 11:27:03.896	EXCEL (0x3784)	0x8908	Microsoft Excel	Syzygy	6slod	Monitorable	Failed to get the disk allocation unit size, will default to 8192 {"Path":"O:{5}"}	
+11/23/2026 11:27:03.897	EXCEL (0x3784)	0x8908	Microsoft Excel	Syzygy	912b2	Medium	Destroying namespace. {"Path":"O:{5}"}	

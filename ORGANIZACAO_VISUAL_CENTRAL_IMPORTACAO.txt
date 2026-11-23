@@ -1,0 +1,115 @@
+ORGANIZACAO VISUAL DA CENTRAL DE IMPORTACAO
+==========================================
+
+Este documento descreve como a tela principal do aplicativo esta organizada
+visualmente e para que serve cada area.
+
+VISAO GERAL
+-----------
+
+A janela e lida de cima para baixo. Primeiro aparecem as informacoes da
+execucao e os comandos de importacao. No centro ficam a lista e o cadastro dos
+hoteis. Na parte inferior aparecem os resultados e os detalhes da execucao.
+
+Esquema simplificado:
+
++--------------------------------------------------------------+
+| Cabecalho: titulo, orientacao e data                         |
++--------------------------------------------------------------+
+| Periodo de coleta | Pastas de saida | Importar todos | Escolher |
++----------------------------+---------------------------------+
+| Seus hoteis                | Cadastro e filtros              |
+|                            |                                 |
+| Lista de hoteis            | Aba Hotel                       |
+| Estado ativo/inativo       | Aba Relatorio C - Reservas      |
+| + Novo hotel / Remover     | Aba Relatorio R - Movimentacao  |
++--------------------------------------------------------------+
+| Situacao de cada hotel e relatorio                           |
+| Hotel | Importacao | Principal/C | Secundario/R | Logout     |
++--------------------------------------------------------------+
+| Detalhes, arquivos gerados e erros                           |
+| Progresso da coleta, caminhos dos arquivos e mensagens       |
++--------------------------------------------------------------+
+
+1. CABECALHO
+------------
+
+No topo aparecem o titulo "Central de importacao", uma breve orientacao sobre
+o gerenciamento dos hoteis e a data da execucao.
+
+2. FAIXA DE COMANDO
+-------------------
+
+Logo abaixo do cabecalho aparecem:
+
+- o periodo de coleta calculado para a execucao;
+- os locais padrao de saida dos relatorios;
+- o botao "Importar todos os hoteis ativos";
+- o botao "Escolher hoteis...", para selecionar apenas alguns hoteis ativos.
+
+3. AREA PRINCIPAL: HOTEIS E CADASTRO
+------------------------------------
+
+A area central e dividida em duas colunas redimensionaveis.
+
+Coluna esquerda - "Seus hoteis":
+
+- lista os hoteis cadastrados;
+- mostra se cada hotel esta ativo ou inativo para importacao;
+- permite criar um perfil com "+ Novo hotel";
+- permite remover um hotel pelo botao "Remover".
+
+Coluna direita - "Cadastro e filtros":
+
+O editor possui tres abas:
+
+- "Hotel": nome, sistema, URL, usuario, senha, nome atual no seletor,
+  unidade adicional e opcao para incluir o hotel na importacao de ativos;
+- "Relatorio C - Reservas": filtros especificos do relatorio C do
+  Desbravador;
+- "Relatorio R - Movimentacao": filtros especificos do relatorio R do
+  Desbravador.
+
+As abas C e R ficam disponiveis para perfis Desbravador. Os campos e filtros
+do perfil selecionado sao carregados no editor. O botao "Salvar configuracao
+do hotel" grava as alteracoes.
+
+4. TABELA DE RESULTADOS
+-----------------------
+
+A tabela "Situacao de cada hotel e relatorio" mostra uma linha para cada hotel
+da importacao. As colunas indicam:
+
+- Hotel: perfil que esta sendo processado;
+- Importacao: estado geral, como aguardando, conectando, concluido, parcial ou
+  falhou;
+- Principal / C: estado do relatorio principal ou do relatorio C;
+- Secundario / R: estado do relatorio secundario ou do relatorio R;
+- Logout: se o logout foi confirmado, nao confirmado ou nao e necessario.
+
+5. PAINEL DE DETALHES
+---------------------
+
+Na parte inferior fica "Detalhes, arquivos gerados e erros". Esse painel de
+texto mostra mensagens de progresso, as etapas que estao ocorrendo, os
+caminhos dos arquivos criados e as explicacoes de erros ou avisos.
+
+APARENCIA
+---------
+
+A tela usa um fundo azul-claro, paineis brancos, textos em tons escuros e
+botoes de acao azuis. A lista de hoteis e o editor ficam lado a lado; a divisao
+entre eles pode ser ajustada. A tabela de resultados e o painel de detalhes
+ficam abaixo da area principal.
+
+FLUXO VISUAL RECOMENDADO
+------------------------
+
+1. Confira a lista de hoteis e seus estados ativo/inativo.
+2. Selecione um hotel para revisar o cadastro, se necessario.
+3. Inicie a importacao pelo botao superior correspondente.
+4. Acompanhe o estado de cada hotel na tabela.
+5. Consulte os detalhes abaixo para caminhos dos arquivos, progresso e erros.
+
+Este documento descreve a organizacao visual da interface; os passos completos
+de instalacao, configuracao e funcionamento dos coletores estao no README.md.

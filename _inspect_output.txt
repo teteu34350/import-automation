@@ -1,0 +1,166 @@
+hotel=Iracema Travel
+========== LOGIN ==========
+URL after login: https://amerisconnect.autosky.cloud/
+
+===== BODY TEXT [hotel-list] =====
+AMBIENTES
+
+Selecione o ambiente na lista abaixo para acessar seu sistema.
+
+
+
+
+ASTRON BAURU
+
+Clique para conectar
+
+ASTRON MONDIAL
+
+Clique para conectar
+
+ASTRON PONTA GROSSA
+
+Clique para conectar
+
+ASTRON SAINT MORITZ
+
+Clique para conectar
+
+ASTRON SÃO JOSE DOS PINHAIS
+
+Clique para conectar
+
+Arrey Hotel Boutique
+
+Clique para conectar
+
+Atoba Turismo e Eventos
+
+Clique para conectar
+
+Beach Arrey
+
+Clique para conectar
+
+Executive Arrey
+
+Clique para conectar
+
+Express Arrey
+
+Clique para conectar
+
+F Itaueira Arrey
+
+Clique para conectar
+
+F Urucui Arrey
+
+Clique para conectar
+
+Formula Arrey - Matriz
+
+Clique para conectar
+
+Gran Arrey
+
+Clique para conectar
+
+HOTEL DA COSTA
+
+Clique para conectar
+
+Hotel Express Arrey Piracuruca
+
+Clique para conectar
+
+Iracema Travel
+
+Clique para conectar
+
+MONUMENTAL HOTEL RESIDENCE
+
+Clique para conectar
+
+NOBILE HOTEL ARARIPINA
+
+Clique para conectar
+
+NOBILE INN DUTRA RIO DE JANEIRO
+
+Clique para conectar
+
+NOBILE INN PAMPULHA
+
+Clique para conectar
+
+NOBILE SUITES GRAN LUMNI RIO BRANCO
+
+Clique para conectar
+
+NOBILE SUITES TAMBAU
+
+Clique para conectar
+
+Nobile Gran Itapema
+
+Clique para conectar
+
+Raio de Sol
+
+Clique para conectar
+
+Regency - Golden Fortaleza
+
+Clique para conectar
+
+SANTUÁRIO DAS ÁGUIAS
+
+Clique para conectar
+
+Trianon
+
+Clique para conectar
+
+Trul - DAYS INN LAPA
+
+Clique para conectar
+
+Trul - DAYS INN UBERLANDIA
+
+Clique para conectar
+
+Você possui o total de
+
+30 Ambientes
+
+===== ANCESTORS OF 'Iracema Travel' =====
+ancestors: ['P.MuiTypography-root.MuiTypography-body1.jss300', 'DIV.MuiGrid-root.MuiGrid-item.jss299', 'DIV.MuiGrid-root.MuiGrid-container.MuiGrid-item', 'DIV.MuiGrid-root.MuiGrid-container.MuiGrid-item', 'DIV.MuiGrid-root.MuiGrid-container.MuiGrid-spacing-xs-2']
+ancestors: ['P.MuiTypography-root.MuiTypography-body1.jss300', 'DIV.MuiGrid-root.MuiGrid-item.jss299', 'DIV.MuiGrid-root.MuiGrid-container.MuiGrid-item', 'DIV.MuiGrid-root.MuiGrid-container.MuiGrid-item', 'DIV.MuiGrid-root.MuiGrid-container.MuiGrid-spacing-xs-2']
+ancestors: ['P.MuiTypography-root.MuiTypography-body1.jss300', 'DIV.MuiGrid-root.MuiGrid-item.jss299', 'DIV.MuiGrid-root.MuiGrid-container.MuiGrid-item', 'DIV.MuiGrid-root.MuiGrid-container.MuiGrid-item', 'DIV.MuiGrid-root.MuiGrid-container.MuiGrid-spacing-xs-2']
+ancestors: ['P.MuiTypography-root.MuiTypography-body1.jss300', 'DIV.MuiGrid-root.MuiGrid-item.jss299', 'DIV.MuiGrid-root.MuiGrid-container.MuiGrid-item', 'DIV.MuiGrid-root.MuiGrid-container.MuiGrid-item', 'DIV.MuiGrid-root.MuiGrid-container.MuiGrid-spacing-xs-2']
+ancestors: ['P.MuiTypography-root.MuiTypography-body1.jss300', 'DIV.MuiGrid-root.MuiGrid-item.jss299', 'DIV.MuiGrid-root.MuiGrid-container.MuiGrid-item', 'DIV.MuiGrid-root.MuiGrid-container.MuiGrid-item', 'DIV.MuiGrid-root.MuiGrid-container.MuiGrid-spacing-xs-2']
+
+========== CLICK IRACEMA ==========
+exact Iracema count: 1
+URL after Iracema: https://amerisconnect.autosky.cloud/apps/701ffdec-7085-4db4-91d0-bc4fa2d585b3
+
+===== BODY TEXT [access-method] =====
+Identificamos que existe uma sessão ativa para seu usuário.
+
+Deseja encerrar sua sessão antiga e continuar?
+
+Por que você está recebendo essa mensagem?
+
+Você pode ter sofrido uma desconexão momentânea de internet ou não ter encerrado sua conexão anterior corretamente.
+
+Caso esse cenário persista, entre em contato com seu administrador do sistema.
+
+Cancelar
+Continuar
+
+========== CLICK ABRIR NO NAVEGADOR ==========
+button count: 0
+=== ALL PAGES ===
+
+DONE. Keeping open 5s.

@@ -1,0 +1,81 @@
+{
+  "hotels": [
+    {
+      "id": "e1c0e397-83f6-44c8-b946-61bd8bf92b20",
+      "name": "Lexy",
+      "url": "https://desbravadorweb.com.br/acesso/7074/",
+      "username": "leonardo@sistemaio.com.br",
+      "system": "desbravador_web",
+      "active": true,
+      "additional_unit": "",
+      "unit_selector_name": "LEXY HOTEL - VILA MARIANA",
+      "disabled_reservation_filters": [
+        "cancelled",
+        "blocked"
+      ],
+      "reservation_filter_overrides": {
+        "cancelled": false,
+        "blocked": false
+      },
+      "movement_options": {}
+    },
+    {
+      "id": "98dd1fba-372c-4059-ae5f-2795a2f1fe65",
+      "name": "Centro",
+      "url": "https://desbravadorweb.com.br/acesso/4846",
+      "username": "sthefanylf@gmail.com",
+      "system": "desbravador_web",
+      "active": true,
+      "additional_unit": "HOTEL PORTINARI PONTE DA AMIZADE (1860)",
+      "unit_selector_name": "HOTEL PORTINARI CENTRO",
+      "disabled_reservation_filters": [
+        "cancelled"
+      ],
+      "reservation_filter_overrides": {
+        "cancelled": false
+      },
+      "movement_options": {}
+    },
+    {
+      "id": "59d31a89-8b67-42f0-a73f-db6d56a60036",
+      "name": "poty",
+      "url": "https://desbravadorweb.com.br/acesso/922/",
+      "username": "miguel@sistemaio.com.br",
+      "system": "desbravador_web",
+      "active": true,
+      "additional_unit": "",
+      "unit_selector_name": "ARREY RIO POTY HOTEL PRAIA",
+      "disabled_reservation_filters": [],
+      "reservation_filter_overrides": {},
+      "movement_options": {}
+    },
+    {
+      "id": "27424db1-344a-4ab4-87ec-1ce2aca6b755",
+      "name": "Pontal do Mundai",
+      "url": "",
+      "username": "io",
+      "system": "queops_desktop",
+      "active": true,
+      "additional_unit": "",
+      "unit_selector_name": "",
+      "disabled_reservation_filters": [],
+      "reservation_filter_overrides": {},
+      "movement_options": {}
+    },
+    {
+      "id": "be7ae3de-7a6c-4ee9-b384-bc0dd42688cb",
+      "name": "Iracema Travel",
+      "url": "https://amerisconnect.autosky.cloud/",
+      "username": "miguel@sistemaio.com.br",
+      "system": "amerisconnect",
+      "active": true,
+      "additional_unit": "",
+      "unit_selector_name": "Iracema Travel",
+      "disabled_reservation_filters": [],
+      "reservation_filter_overrides": {},
+      "movement_options": {}
+    }
+  ],
+  "output_directory": "C:\\Users\\teteu\\OneDrive\\Área de Trabalho",
+  "output_format": "xls"
+}

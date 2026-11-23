@@ -1,0 +1,6 @@
+.env
+/perfil_desbravador/
+/exportacoes/
+.venv/
+__pycache__/
+*.py[cod]
